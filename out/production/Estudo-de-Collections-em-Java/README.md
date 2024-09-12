@@ -86,11 +86,12 @@
     -O método ** sort() ** é usado para ordenar uma lista em ordem ascendente
     -O método ** sort() ** em conjunto com ** Collections.reverseOrder() ** permite ordenar em ordem descendente.
 
-## ListGenerics
-    ° A interface ListGenerics é uma coleção ordenada que permite a inclusão de elementos duplicados.
+## ListInterface
+    ° A interface ListInterface é uma coleção ordenada que permite a inclusão de elementos duplicados.
     ° É um dos tipos de coleção mais utilizados em Java, e as classes de implementação comuns são ArrayList e LinkedList.
     ° A ListGenerics se assemelha a uma matriz com comprimento dinâmico, permitindo adicionar ou remover elementos.
     ° A interface ListGenerics fornece métodos úteis para adicionar elementos em posições específicas, remover ou substituir elementos 
     com base no índice e obter sublistas usando índices.
     ° A classe Collections fornece algoritmos úteis para manipulação de ListGenerics, como ordenação (sort), embaralhamento (shuffle), 
     reversão (reverse) e busca binária (binarySearch).
+

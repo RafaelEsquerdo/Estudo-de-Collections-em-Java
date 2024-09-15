@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/../Estudo de Collections em Java - Map/Estudo de Collections em Java - Map.iml" filepath="$PROJECT_DIR$/../Estudo de Collections em Java - Map/Estudo de Collections em Java - Map.iml" />
       <module fileurl="file://$PROJECT_DIR$/../Estudo de Collections em Java - SET/Estudo de Collections em Java - SET.iml" filepath="$PROJECT_DIR$/../Estudo de Collections em Java - SET/Estudo de Collections em Java - SET.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/Estudo-de-Collections-em-Java-List.iml" filepath="$PROJECT_DIR$/.idea/Estudo-de-Collections-em-Java-List.iml" />
     </modules>
